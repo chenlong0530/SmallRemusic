@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "main",
+      "type": "app",
+      "pkg": "com.cl.remusic.app.main"
+    },
+    {
+      "url": "service",
+      "type": "lib",
+      "pkg": "com.cl.remusic.lib.service"
+    },
+    {
+      "url": "widget",
+      "type": "lib",
+      "pkg": "com.cl.remusic.lib.widget"
+    }
+  ]
+}

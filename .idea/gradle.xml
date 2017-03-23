@@ -9,7 +9,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app+stub" />
             <option value="$PROJECT_DIR$/app.main" />
+            <option value="$PROJECT_DIR$/lib.bilibili" />
+            <option value="$PROJECT_DIR$/lib.immutable" />
+            <option value="$PROJECT_DIR$/lib.permission" />
+            <option value="$PROJECT_DIR$/lib.proxy" />
+            <option value="$PROJECT_DIR$/lib.service" />
+            <option value="$PROJECT_DIR$/lib.widget" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

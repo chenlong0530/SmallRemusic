@@ -1,1 +1,1 @@
-include ':app', ':app.main', ':lib.widget', ':lib.immutable', ':lib.bilibili', ':app+stub', ':lib.service', ':lib.proxy', ':lib.permission'
+include ':app', ':app.main', ':lib.widget'

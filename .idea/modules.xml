@@ -4,13 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SmallRemusic.iml" filepath="$PROJECT_DIR$/SmallRemusic.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app+stub/app+stub.iml" filepath="$PROJECT_DIR$/app+stub/app+stub.iml" />
       <module fileurl="file://$PROJECT_DIR$/app.main/app.main.iml" filepath="$PROJECT_DIR$/app.main/app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lib.bilibili/lib.bilibili.iml" filepath="$PROJECT_DIR$/lib.bilibili/lib.bilibili.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lib.immutable/lib.immutable.iml" filepath="$PROJECT_DIR$/lib.immutable/lib.immutable.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lib.permission/lib.permission.iml" filepath="$PROJECT_DIR$/lib.permission/lib.permission.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lib.proxy/lib.proxy.iml" filepath="$PROJECT_DIR$/lib.proxy/lib.proxy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lib.service/lib.service.iml" filepath="$PROJECT_DIR$/lib.service/lib.service.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib.widget/lib.widget.iml" filepath="$PROJECT_DIR$/lib.widget/lib.widget.iml" />
     </modules>
   </component>
